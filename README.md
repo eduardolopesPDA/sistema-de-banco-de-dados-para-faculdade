@@ -36,14 +36,14 @@ Cole no seu terminal ou console de comandos SQL.
 Execute os comandos para criar a estrutura.
 
 <h1>Código de Inicialização </h1>
-SQL
--- Criação do Banco
-CREATE DATABASE sistema_faculdade;
-USE sistema_faculdade;
+<p>Quando você já estiver no seu servidor SQL execute os seguintes códigos:</p>
+Criação do Banco
+<h2>CREATE DATABASE sistema_faculdade;</h2>
+<h2>USE sistema_faculdade;</h2>
+<h2> As tabelas devem ser criadas na ordem correta!! Devido às chaves estrangeiras (Foreign Keys)</h2>
+ 
 
--- As tabelas devem ser criadas na ordem correta devido às chaves estrangeiras (Foreign Keys)
--- [O seu código SQL entra aqui]
-📊 Regras de Negócio Implementadas
+<h1>📊 Regras de Negócio Implementadas </h1>
 Chaves Primárias (PK): Garantem que cada registro (aluno, professor, curso) seja único.
 
 Chaves Estrangeiras (FK): Mantêm a integridade dos dados, impedindo, por exemplo, que uma nota seja atribuída a um aluno que não existe.
