@@ -29,11 +29,11 @@ Para subir o banco de dados em seu ambiente local:
 
 Certifique-se de ter um servidor MySQL instalado (como XAMPP, WAMP ou MySQL Workbench).
 
-Copie o código SQL abaixo.
+Copie o código SQL da pasta "modelagem fisica".
 
 Cole no seu terminal ou console de comandos SQL.
 
-Execute os comandos para criar a estrutura.
+E execute os comandos para criar a estrutura:
 
 <h1>Código de Inicialização </h1>
 <p>Quando você já estiver no seu servidor SQL execute os seguintes códigos:</p>
