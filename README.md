@@ -37,10 +37,15 @@ Execute os comandos para criar a estrutura.
 
 <h1>Código de Inicialização </h1>
 <p>Quando você já estiver no seu servidor SQL execute os seguintes códigos:</p>
-Criação do Banco
+
+<p>Criação do Banco</p>
 <h2>CREATE DATABASE sistema_faculdade;</h2>
+---------------------
 <h2>USE sistema_faculdade;</h2>
-<h2> As tabelas devem ser criadas na ordem correta!! Devido às chaves estrangeiras (Foreign Keys)</h2>
+<p>O comando acima serve para executar todas as funcionalidades do banco de dados</p>
+
+<h2> As tabelas devem ser coladas na ordem correta!! Devido às chaves estrangeiras (Foreign Keys)</h2>
+<p>logo após colocar estes dois comandos é só copiar o resto do código e executar os dois primeiros comandos.</p>
  
 
 <h1>📊 Regras de Negócio Implementadas </h1>
