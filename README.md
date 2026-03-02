@@ -21,7 +21,8 @@ tbl_notas: Onde são registrados os resultados dos alunos em cada turma.
 
 
 <h1>🛠️ Tecnologias Utilizadas </h1>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></p>
+<h3>MySQL</h3>
 
 <h1>🚀 Como Executar</h1>
 Para subir o banco de dados em seu ambiente local:
