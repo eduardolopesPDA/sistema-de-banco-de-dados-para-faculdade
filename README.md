@@ -40,7 +40,7 @@ Execute os comandos para criar a estrutura.
 
 <p>Criação do Banco</p>
 <h2>CREATE DATABASE sistema_faculdade;</h2>
----------------------
+
 <h2>USE sistema_faculdade;</h2>
 <p>O comando acima serve para executar todas as funcionalidades do banco de dados</p>
 
